@@ -17,6 +17,6 @@ public class MoveZeros {
     public static void main(String[] args) {
         int[] nums = {0,1,2,0,3};
         moveZeros(nums);
-        Util.printNumberArray(nums);
+        Util.print(nums);
     }
 }

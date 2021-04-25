@@ -1,5 +1,7 @@
 package solution.linklist.easy;
 
+import solution.linklist.ListNode;
+
 public class DeleteNode {
     static void deleteNode(ListNode node) {
         node.val = node.next.val;

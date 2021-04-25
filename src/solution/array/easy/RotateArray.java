@@ -17,6 +17,6 @@ public class RotateArray {
     public static void main(String[] args) {
         int[] nums = {5, 4, 3, 2, 1};
         rotateArray(nums, 2);
-        Util.printNumberArray(nums);
+        Util.print(nums);
     }
 }

@@ -1,13 +1,13 @@
-package solution.linklist.easy;
+package solution.linklist;
 
 public class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
+    public int val;
+    public ListNode next;
+    public ListNode(int x) {
         val = x;
     }
 
-    static void printList(ListNode head) {
+    public static void printList(ListNode head) {
         ListNode node = head;
         while (node.next != null) {
             System.out.println(node.val);

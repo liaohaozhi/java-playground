@@ -1,5 +1,7 @@
 package solution.linklist.easy;
 
+import solution.linklist.ListNode;
+
 public class RemoveNthNodeFromEnd {
 
     static ListNode removeNthFromEnd(ListNode head, int n) {

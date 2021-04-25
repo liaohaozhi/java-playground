@@ -35,6 +35,6 @@ public class TwoSum {
     public static void main(String[] args) {
         int[] nums = {3,3};
         int[] indexes = twoSumOnePass(nums, 6);
-        Util.printNumberArray(indexes);
+        Util.print(indexes);
     }
 }

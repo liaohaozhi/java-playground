@@ -1,5 +1,7 @@
 package solution.linklist.easy;
 
+import solution.linklist.ListNode;
+
 public class MergeTwoSortedLists {
 
     static ListNode merge(ListNode l1, ListNode l2) {

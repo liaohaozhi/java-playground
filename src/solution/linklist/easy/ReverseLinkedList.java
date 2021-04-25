@@ -1,5 +1,7 @@
 package solution.linklist.easy;
 
+import solution.linklist.ListNode;
+
 import java.util.Stack;
 
 public class ReverseLinkedList {
