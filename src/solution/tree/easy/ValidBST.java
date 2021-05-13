@@ -1,5 +1,7 @@
 package solution.tree.easy;
 
+import solution.tree.TreeNode;
+
 public class ValidBST {
 
     static boolean isValidBST(TreeNode root) {

@@ -1,5 +1,7 @@
 package solution.tree.easy;
 
+import solution.tree.TreeNode;
+
 import java.util.*;
 
 public class BinaryTreeLevelOrderTraversal {

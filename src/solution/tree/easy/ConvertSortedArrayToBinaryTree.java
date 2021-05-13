@@ -1,5 +1,7 @@
 package solution.tree.easy;
 
+import solution.tree.TreeNode;
+
 public class ConvertSortedArrayToBinaryTree {
     static TreeNode convert(int[] nums){
         return buildTree(nums, 0, nums.length-1);

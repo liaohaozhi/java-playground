@@ -1,5 +1,7 @@
 package solution.tree.easy;
 
+import solution.tree.TreeNode;
+
 public class MaxDepth {
 
     static int maxDepth(TreeNode root) {
